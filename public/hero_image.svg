@@ -1,0 +1,8 @@
+<svg width="500" height="500" viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <rect width="500" height="500" fill="#f3f4f6" />
+  <rect x="150" y="150" width="200" height="200" fill="#e5e7eb" rx="20" />
+  <circle cx="250" cy="220" r="50" fill="#9ca3af" />
+  <path d="M180 320 Q250 380 320 320" stroke="#9ca3af" stroke-width="10" fill="none" />
+  <text x="250" y="400" font-family="Arial" font-size="24" text-anchor="middle" fill="#6b7280">Hero Image Placeholder</text>
+  <text x="250" y="430" font-family="Arial" font-size="14" text-anchor="middle" fill="#9ca3af">(Replace with explicitly named file)</text>
+</svg>
