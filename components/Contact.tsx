@@ -25,7 +25,7 @@ const Contact = () => {
                     viewport={{ once: false }}
                     className="mb-8 lg:mb-16 font-light text-center text-zinc-500 dark:text-zinc-400 sm:text-xl"
                 >
-                    Got a technical issue? Want to send feedback about a beta feature? Need details about our Business plan? Let us know.
+                    Have a project in mind, a question about my work, or just want to say hi? Feel free to reach out. I'll get back to you as soon as I can!
                 </motion.p>
                 <motion.form
                     action="#"

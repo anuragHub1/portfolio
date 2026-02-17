@@ -38,7 +38,7 @@ const Footer = () => {
                                     <a href="https://github.com/anuragkrs2195" target="_blank" className="hover:text-indigo-600 transition-colors">GitHub</a>
                                 </li>
                                 <li>
-                                    <a href="https://linkedin.com" target="_blank" className="hover:text-indigo-600 transition-colors">LinkedIn</a>
+                                    <a href="https://linkedin.com/in/anurag-kumar-0676a3233" target="_blank" className="hover:text-indigo-600 transition-colors">LinkedIn</a>
                                 </li>
                                 <li>
                                     <a href="mailto:anuragkrs2195@gmail.com" className="hover:text-indigo-600 transition-colors">Email</a>
